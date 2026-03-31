@@ -216,8 +216,7 @@ Plugins → Installed Plugins
 
 A fost creată o pagină nouă cu titlul „Contacte”, în care a fost inserat formularul generat de Contact Form 7 utilizând shortcode-ul acestuia.
 
-Link-ul direct către formular: [http://localhost/](http://localhost/?page_id=51&preview=true#) 
-
+Link-ul direct către formular: [http://localhost/?page_id=51&preview=true#](http://localhost/?page_id=51&preview=true#)
 
 
 ### 7.2 Crearea postărilor
