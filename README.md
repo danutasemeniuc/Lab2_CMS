@@ -31,10 +31,10 @@ Funcționarea serverului a fost verificată prin accesarea adresei:
 
 http://localhost
 
-![Pornirea serviciilor Apache și MySQL!](/media/figura1_lab2.png)
+![Pornirea serviciilor Apache și MySQL!](figura1_lab2.png)
 📸 **Figura 1.** Pornirea serviciilor Apache și MySQL!
 
-![Verificarea funcționării localhost](/media/figura2_lab2.png)
+![Verificarea funcționării localhost](../media/figura2_lab2.png)
 📸 **Figura 2.** Verificarea funcționării localhost  
  
 ---
