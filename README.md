@@ -2,7 +2,7 @@
 
 **Student: Semeniuc Dănuța** 
 **Grupa: I2301**   
-**Profesor: Nartea Nichita - asis. univ.**  
+**Profesor: Nartea Nichita**  
  
 
 ---
@@ -31,10 +31,10 @@ Funcționarea serverului a fost verificată prin accesarea adresei:
 
 http://localhost
 
-![Pornirea serviciilor Apache și MySQL!](figura1_lab2.png)
+![Pornirea serviciilor Apache și MySQL!](media/figura1_lab2.png)
 📸 **Figura 1.** Pornirea serviciilor Apache și MySQL!
 
-![Verificarea funcționării localhost](../media/figura2_lab2.png)
+![Verificarea funcționării localhost](media/figura2_lab2.png)
 📸 **Figura 2.** Verificarea funcționării localhost  
  
 ---
@@ -48,7 +48,7 @@ http://localhost
 
 Această bază de date va stoca toate informațiile site-ului (postări, pagini, utilizatori, setări).
 
-![Verificarea funcționării localhost](/media/figura3_lab2.png)
+![Verificarea funcționării localhost](media/figura3_lab2.png)
 📸 **Figura 3.** Crearea bazei de date wp_lab2 
 
  
@@ -86,10 +86,10 @@ După completarea informațiilor despre site (titlu, utilizator administrator, p
 
 Panoul de administrare poate fi accesat la: [http://localhost/](http://localhost/wp-admin/)
 
- ![Formular pentru introducerea datelor bazei de date](/media/figura4_lab2.png)
+ ![Formular pentru introducerea datelor bazei de date](media/figura4_lab2.png)
 📸 **Figura 4.** Formular pentru introducerea datelor bazei de date
 
-![Verificarea funcționării localhost](/media/figura5_lab2.png)
+![Verificarea funcționării localhost](media/figura5_lab2.png)
 📸 **Figura 5.** Panoul de administrare (Dashboard)  
 
 ---
@@ -105,7 +105,7 @@ Au fost realizate următoarele modificări:
 - Setarea unei iconițe/logo pentru site
 - Setarea fusului orar: Europe/Chisinau
 
-![Setările generale ale site-ului](/media/figura6_lab2.png)
+![Setările generale ale site-ului](media/figura6_lab2.png)
 📸 **Figura 6.** Setările generale ale site-ului  
 
 ---
@@ -116,7 +116,7 @@ Pentru link-uri prietenoase și optimizate SEO, a fost selectată opțiunea:
 
 - Post name
 
-![Configurarea permalinks](/media/figura7_lab2.png)
+![Configurarea permalinks](media/figura7_lab2.png)
 📸 **Figura 7.** Configurarea permalinks  
 
 ---
@@ -135,10 +135,10 @@ a fost instalată și activată tema **Twenty Seventeen**.
 
 După activare, aspectul site-ului s-a modificat, demonstrând separarea dintre conținut și design.
 
-![Instalarea temei Twenty Seventeen](/media/figura8_lab2.png)
+![Instalarea temei Twenty Seventeen](media/figura8_lab2.png)
 📸 **Figura 8.** Instalarea temei Twenty Seventeen 
 
-![Aspectul site-ului după activare](/media/figura9_lab2.png)
+![Aspectul site-ului după activare](media/figura9_lab2.png)
 📸 **Figura 9.** Aspectul site-ului după activare  
 
 ---
@@ -155,7 +155,7 @@ au fost realizate următoarele modificări:
 - Modificarea culorilor
 - Editarea titlului și descrierii site-ului
 
-![Personalizarea temei](/media/figura10_lab2.png)
+![Personalizarea temei](media/figura10_lab2.png)
 📸 **Figura 10.** Personalizarea temei  
 
 ---
@@ -172,7 +172,7 @@ Plugins → Add New
 
 a fost instalat și activat plugin-ul **Classic Editor**, care permite utilizarea editorului clasic pentru postări.
 
-![Instalarea plugin-ului Classic Editor](/media/figura11_lab2.png)
+![Instalarea plugin-ului Classic Editor](media/figura11_lab2.png)
 📸 **Figura 11.** Instalarea plugin-ului Classic Editor  
 
 
@@ -182,7 +182,7 @@ a fost instalat și activat plugin-ul **Classic Editor**, care permite utilizare
 
 A fost instalat și activat plugin-ul **Contact Form 7**, utilizat pentru crearea formularelor de contact.
 
-![Instalarea plugin-ului Contact Form 7](/media/figura12_lab2.png)
+![Instalarea plugin-ului Contact Form 7](media/figura12_lab2.png)
 📸 **Figura 12.** Instalarea plugin-ului Contact Form 7
 
 După activare:
@@ -190,10 +190,10 @@ După activare:
 - a fost generat un shortcode
 - shortcode-ul a fost inserat într-o pagină
 
-![Activarea plugin-urilor](/media/figura13_lab2.png)
+![Activarea plugin-urilor](media/figura13_lab2.png)
 📸 **Figura 13.** Activarea plugin-urilor
 
-![Activarea plugin-urilor](/media/figura14_lab2.png)
+![Activarea plugin-urilor](media/figura14_lab2.png)
 📸 **Figura 14.** Crearea formularului de contact  
 
 ---
@@ -206,7 +206,7 @@ Plugins → Installed Plugins
 
 În urma dezactivării, editorul clasic nu a mai fost disponibil, ceea ce demonstrează că funcționalitatea depinde de plugin.
 
-![Dezactivarea plugin-ului](/media/figura15_lab2.png)
+![Dezactivarea plugin-ului](media/figura15_lab2.png)
 📸 **Figura 15.** Dezactivarea plugin-ului  
 
 ---
@@ -230,7 +230,7 @@ Au fost create mai multe postări care conțin:
 
 S-a verificat modul de afișare al acestora pe site-ul public.
 
-![Exemplu de postare publicată](/media/figura16_lab2.png)
+![Exemplu de postare publicată](media/figura16_lab2.png)
 📸 **Figura 16.** Exemplu de postare publicată  
 
 ---
