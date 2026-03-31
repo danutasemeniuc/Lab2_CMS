@@ -2,10 +2,7 @@
 
 **Student: Semeniuc Dănuța** 
 **Grupa: I2301**   
-**Profesor: Nartea Nichita**  
- 
-
----
+**Profesor: Nartea Nichita, asist. univ**  
 
 ## 1. Scopul lucrării
 
@@ -13,7 +10,7 @@ Scopul acestei lucrări de laborator a fost instalarea și configurarea platform
 
 Prin realizarea lucrării s-a urmărit înțelegerea modului de funcționare al unui sistem de management al conținutului (CMS), precum și separarea dintre conținut, design și funcționalitate.
 
----
+
 
 ## 2. Pregătirea mediului de lucru
 
@@ -37,7 +34,7 @@ http://localhost
 ![Verificarea funcționării localhost](media/figura2_lab2.png)
 📸 **Figura 2.** Verificarea funcționării localhost  
  
----
+
 
 ### 2.2 Crearea bazei de date
 
@@ -52,7 +49,7 @@ Această bază de date va stoca toate informațiile site-ului (postări, pagini,
 📸 **Figura 3.** Crearea bazei de date wp_lab2 
 
  
----
+
 
 ## 3. Instalarea WordPress
 
@@ -66,7 +63,7 @@ Fișierele au fost dezarhivate și copiate în directorul:
 
 C:\xampp\htdocs\
 
----
+
 
 ### 3.2 Configurarea instalării
 
@@ -86,13 +83,15 @@ După completarea informațiilor despre site (titlu, utilizator administrator, p
 
 Panoul de administrare poate fi accesat la: [http://localhost/](http://localhost/wp-admin/)
 
- ![Formular pentru introducerea datelor bazei de date](media/figura4_lab2.png)
+![Formular pentru introducerea datelor bazei de date](media/figura4_lab2.png)
+ 
 📸 **Figura 4.** Formular pentru introducerea datelor bazei de date
 
 ![Verificarea funcționării localhost](media/figura5_lab2.png)
+
 📸 **Figura 5.** Panoul de administrare (Dashboard)  
 
----
+
 
 ## 4. Configurarea inițială a site-ului
 
@@ -108,7 +107,7 @@ Au fost realizate următoarele modificări:
 ![Setările generale ale site-ului](media/figura6_lab2.png)
 📸 **Figura 6.** Setările generale ale site-ului  
 
----
+
 
 ### 4.2 Settings → Permalinks
 
@@ -119,7 +118,7 @@ Pentru link-uri prietenoase și optimizate SEO, a fost selectată opțiunea:
 ![Configurarea permalinks](media/figura7_lab2.png)
 📸 **Figura 7.** Configurarea permalinks  
 
----
+
 
 ## 5. Lucrul cu teme
 
@@ -141,7 +140,7 @@ După activare, aspectul site-ului s-a modificat, demonstrând separarea dintre 
 ![Aspectul site-ului după activare](media/figura9_lab2.png)
 📸 **Figura 9.** Aspectul site-ului după activare  
 
----
+
 
 ### 5.2 Personalizarea temei
 
@@ -158,7 +157,7 @@ au fost realizate următoarele modificări:
 ![Personalizarea temei](media/figura10_lab2.png)
 📸 **Figura 10.** Personalizarea temei  
 
----
+
 
 ## 6. Lucrul cu plugin-uri
 
@@ -176,7 +175,7 @@ a fost instalat și activat plugin-ul **Classic Editor**, care permite utilizare
 📸 **Figura 11.** Instalarea plugin-ului Classic Editor  
 
 
----
+
 
 ### 6.2 Instalarea plugin-ului Contact Form 7
 
@@ -196,7 +195,7 @@ După activare:
 ![Activarea plugin-urilor](media/figura14_lab2.png)
 📸 **Figura 14.** Crearea formularului de contact  
 
----
+
 
 ### 6.3 Dezactivarea unui plugin
 
@@ -209,7 +208,7 @@ Plugins → Installed Plugins
 ![Dezactivarea plugin-ului](media/figura15_lab2.png)
 📸 **Figura 15.** Dezactivarea plugin-ului  
 
----
+
 
 ## 7. Crearea conținutului
 
@@ -219,7 +218,7 @@ A fost creată o pagină nouă cu titlul „Contacte”, în care a fost inserat
 
 Link-ul direct către formular: [http://localhost/](http://localhost/?page_id=51&preview=true#) 
 
----
+
 
 ### 7.2 Crearea postărilor
 
@@ -233,7 +232,7 @@ S-a verificat modul de afișare al acestora pe site-ul public.
 ![Exemplu de postare publicată](media/figura16_lab2.png)
 📸 **Figura 16.** Exemplu de postare publicată  
 
----
+
 
 ## 8. Răspunsuri la întrebările de control
 
@@ -242,13 +241,13 @@ S-a verificat modul de afișare al acestora pe site-ul public.
 Tema controlează designul și structura vizuală a site-ului.  
 Plugin-ul adaugă funcționalități suplimentare (formulare, SEO, securitate etc.).
 
----
+
 
 ### 8.2 De ce nu se pierde conținutul site-ului atunci când se schimbă tema?
 
 Conținutul este stocat în baza de date MySQL, iar tema afectează doar afișarea acestuia. Schimbarea temei modifică designul, nu informațiile salvate.
 
----
+
 
 ### 8.3 Cum se poate modifica aspectul site-ului fără a edita codul?
 
@@ -257,7 +256,7 @@ Aspectul poate fi modificat prin:
 - utilizarea secțiunii Customize
 - instalarea plugin-urilor de tip page builder
 
----
+
 
 ## 9. Concluzii
 
